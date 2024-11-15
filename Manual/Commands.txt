@@ -3,9 +3,9 @@ curl -o CommentComponent.cs https://raw.githubusercontent.com/Unturned-Dataminin
 curl -o BinaryRandomComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/BinaryRandomComponent.cs
 curl -o LogMessengerComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/LogMessengerComponent.cs
 curl -o EngineCurvesComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/EngineCurvesComponent.cs
-curl -o  LightningWeatherComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ LightningWeatherComponent.cs
-curl -o  CustomWeatherComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ CustomWeatherComponent.cs
-curl -o  LODGroupAdditionalData.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ LODGroupAdditionalData.cs
+curl -o LightningWeatherComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ LightningWeatherComponent.cs
+curl -o CustomWeatherComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ CustomWeatherComponent.cs
+curl -o LODGroupAdditionalData.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ LODGroupAdditionalData.cs
 curl -o FallDamageOverride.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/FallDamageOverride.cs
 curl -o ParticleSystemCollisionAudio.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ParticleSystemCollisionAudio.cs
 curl -o TemperatureTrigger.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/TemperatureTrigger.cs
@@ -16,7 +16,7 @@ curl -o Rocket.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned
 curl -o ImpactGrenade.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ImpactGrenade.cs
 curl -o StickyGrenade.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/StickyGrenade.cs
 curl -o Grenade.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/Grenade.cs
-curl -o CSteamID.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/CSteamID.cs
+curl -o CSteamID.cs https://raw.githubusercontent.com/olie304/UnturnedScripts/refs/heads/master/CSteamID.cs
 curl -o Carepackage.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/Carepackage.cs
 curl -o CarepackageDestroy.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/CarepackageDestroy.cs
 curl -o Distraction.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/Distraction.cs
@@ -27,16 +27,16 @@ curl -o NightLight.cs https://raw.githubusercontent.com/Unturned-Datamining/Untu
 curl -o FlickeringLight.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/FlickeringLight.cs
 curl -o BlinkingLight.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/BlinkingLight.cs
 curl -o UnturnedAudioMixer.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/UnturnedAudioMixer.cs
-curl -o  UndergroundWhitelistVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ UndergroundWhitelistVolume.cs
-curl -o  KillVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ KillVolume.cs
-curl -o EffectVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/EffectVolume.cs
-curl -o  OxygenVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ OxygenVolume.cs
-curl -o  DeadzoneVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ DeadzoneVolume.cs
-curl -o  CullingVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ CullingVolume.cs
-curl -o  GrassDisplacement.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ GrassDisplacement.cs
-curl -o  GraphicsSettings.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ GraphicsSettings.cs
-curl -o  DynamicWaterTransparentSortComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ DynamicWaterTransparentSortComponent.cs
-curl -o  UseableEventHook.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ UseableEventHook.cs
+curl -o UndergroundWhitelistVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/ UndergroundWhitelistVolume.cs
+curl -o KillVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/ KillVolume.cs
+curl -o EffectVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/EffectVolume.cs
+curl -o OxygenVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/ OxygenVolume.cs
+curl -o DeadzoneVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/ DeadzoneVolume.cs
+curl -o CullingVolume.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Framework.Devkit/ CullingVolume.cs
+curl -o GrassDisplacement.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ GrassDisplacement.cs
+curl -o GraphicsSettings.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ GraphicsSettings.cs
+curl -o DynamicWaterTransparentSortComponent.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ DynamicWaterTransparentSortComponent.cs
+curl -o UseableEventHook.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/ UseableEventHook.cs
 curl -o NPCGlobalEventHook.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/NPCGlobalEventHook.cs
 curl -o UseableGunEventHook.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/UseableGunEventHook.cs
 curl -o UseableEventHook.cs https://raw.githubusercontent.com/Unturned-Datamining/Unturned-Datamining/09b5dd59b7981ff4f27ca917f31689b12fbdaec1/Assembly-CSharp/SDG.Unturned/UseableEventHook.cs
